@@ -7,6 +7,10 @@
     h1, 
     h3 {
         text-align: center;
+        color: white;
+    }
+    a:visited {
+        color: white;
     }
 </style>
 
